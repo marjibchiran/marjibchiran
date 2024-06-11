@@ -1,4 +1,5 @@
-## Hi there 👋
+# Shopify Developer | Shopify Theme Development | Shopify Custom Theme Building | Shopify Website Design 👋
+## HTML5/CSS3, Tailwind CSS, Bootstrap, jQuery Plugin | Liquid Coding | Javascript
 
 <!--
 **marjibchiran/marjibchiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
