@@ -1,11 +1,7 @@
 <h1 align="left">Hi 👋, I'm Marjib Chiran - A Passionate Shopify Front end Developer</h1>
 <h3 align="left">Shopify Theme Development, Custom Theme Building, Shopify Theme Customization, Shopify CRO</h3>
-<h3 align="left">My Strangers: HTML5/CSS3, Tailwind CSS, Bootstrap, jQuery Plugin | Figma | Liquid Coding | JavaScript</h3>
-<p align="left">I am an individual Shopify Developer Specializing in Shopify Theme Development, Theme Customization, Custom Template Creation, Shopify Website Design, Figma to Shopify conversion, Landing Page Design, Shopify Speed Optimization, and Conversion Rate Optimization. From building custom Shopify stores to optimizing them for search engines and designing captivating landing pages, I am dedicated to delivering high-quality results that exceed client expectations.</p><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marjibchiran&label=Profile%20views&color=0e75b6&style=flat" alt="marjibchiran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marjibchiran" alt="marjibchiran" /></a> </p><br>
+<p align="left">I am an individual Shopify Developer Specializing in Shopify Theme Development, Theme Customization, Custom Template Creation, Shopify Website Design, Figma to Shopify conversion, Landing Page Design, Shopify Speed Optimization, and Conversion Rate Optimization. From building custom Shopify stores to optimizing them for search engines and designing captivating landing pages, I am dedicated to delivering high-quality results that exceed client expectations.</p><be>
+<h4 align="left">My Strangers: HTML5/CSS3, Tailwind CSS, Bootstrap, jQuery Plugin | Figma | Liquid Coding | JavaScript</h4><br>
 
 <p align="left"> <a href="https://twitter.com/marjibchiran" target="blank"><img src="https://img.shields.io/twitter/follow/marjibchiran?logo=twitter&style=for-the-badge" alt="marjibchiran" /></a> </p>
 
