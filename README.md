@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Marjib Chiran - A passionate Shopify Front end Developer</h1>
+<h1 align="left">Hi 👋, I'm Marjib Chiran - A Passionate Shopify Front end Developer</h1>
 <h3 align="left">Shopify Theme Development, Custom Theme Building, Shopify Theme Customization, Shopify CRO</h3>
 <h3 align="left">My Strangers: HTML5/CSS3, Tailwind CSS, Bootstrap, jQuery Plugin | Figma | Liquid Coding | JavaScript</h3>
-<p align="left">Experienced Shopify Developer with a passion for crafting seamless online experiences. Specializing in Shopify Theme Development, Figma to Shopify conversion, Landing Page Design, Shopify Speed Optimization, and Conversion Rate Optimization. I bring 3 of expertise to every project. From building custom Shopify stores to optimizing them for search engines and designing captivating landing pages, I am dedicated to delivering high-quality results that exceed client expectations. </p>
+<p align="left">I am an individual Shopify Developer Specializing in Shopify Theme Development, Theme Customization, Custom Template Creation, Shopify Website Design, Figma to Shopify conversion, Landing Page Design, Shopify Speed Optimization, and Conversion Rate Optimization. From building custom Shopify stores to optimizing them for search engines and designing captivating landing pages, I am dedicated to delivering high-quality results that exceed client expectations.</p><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjibchiran&label=Profile%20views&color=0e75b6&style=flat" alt="marjibchiran" /> </p>
 
