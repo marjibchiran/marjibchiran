@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marjib Chiran - A passionate Shopify Front end Developer</h1>
+<h3 align="center">Shopify Theme Development, Custom Theme Building, Shopify Theme Customization, Shopify Speed Optimization</h3>
 <h3 align="center">My Strangers: HTML5/CSS3, Tailwind CSS, Bootstrap, jQuery Plugin | Figma | Liquid Coding | JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjibchiran&label=Profile%20views&color=0e75b6&style=flat" alt="marjibchiran" /> </p>
